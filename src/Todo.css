@@ -1,0 +1,16 @@
+.todo{
+    text-align: center;
+}
+
+.todo__modal{
+    width: 400px;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    padding: 10px;
+    background-color: gray;
+}
